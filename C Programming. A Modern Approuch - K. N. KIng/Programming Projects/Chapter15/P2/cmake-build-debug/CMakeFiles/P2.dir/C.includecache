@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/line.c
+stdio.h
+-
+string.h
+-
+line.h
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/line.h
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/line.h
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/main.c
+string.h
+-
+line.h
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/line.h
+word.h
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/word.h
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/word.c
+stdio.h
+-
+word.h
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/word.h
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter15/P2/word.h
+

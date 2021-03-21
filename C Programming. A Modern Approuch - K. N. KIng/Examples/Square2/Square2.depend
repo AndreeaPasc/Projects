@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549395249 source:c:\users\andre\documents\utcn computer science\computer programming\c programming. a modern approuch - k. n. king\examples\square2\main.c
+	<stdio.h>
+	<stdlib.h>
+

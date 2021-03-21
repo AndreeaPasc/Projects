@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter9/P8/main.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+

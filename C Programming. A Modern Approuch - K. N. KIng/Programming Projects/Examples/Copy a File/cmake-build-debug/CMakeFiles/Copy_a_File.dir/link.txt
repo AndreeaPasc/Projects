@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Copy_a_File.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Copy_a_File.dir/objects.a @CMakeFiles\Copy_a_File.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Copy_a_File.dir/objects.a -Wl,--no-whole-archive  -o Copy_a_File.exe -Wl,--out-implib,libCopy_a_File.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Copy_a_File.dir\linklibs.rsp

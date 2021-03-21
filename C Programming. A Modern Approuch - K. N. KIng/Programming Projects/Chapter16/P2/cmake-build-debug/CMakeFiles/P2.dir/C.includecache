@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter16/P2/main.c
+stdio.h
+-
+read_line.h
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter16/P2/read_line.h
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter16/P2/read_line.c
+ctype.h
+-
+stdio.h
+-
+read_line.h
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter16/P2/read_line.h
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Chapter16/P2/read_line.h
+

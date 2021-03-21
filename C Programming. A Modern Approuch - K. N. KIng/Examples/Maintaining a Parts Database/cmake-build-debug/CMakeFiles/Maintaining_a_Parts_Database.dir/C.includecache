@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Maintaining a Parts Database/main.c
+stdio.h
+-
+readline.h
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Maintaining a Parts Database/readline.h
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Maintaining a Parts Database/readline.c
+ctype.h
+-
+stdio.h
+-
+readline.h
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Maintaining a Parts Database/readline.h
+
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Maintaining a Parts Database/readline.h
+

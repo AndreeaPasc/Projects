@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(P5 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(P5 main.c ../../Chapter10/P6/stack.h stack.h stack.c)

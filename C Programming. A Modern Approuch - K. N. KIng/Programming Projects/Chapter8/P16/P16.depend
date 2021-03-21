@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552501881 source:c:\users\andre\documents\utcn computer science\an1\sem1\computer programming\c programming. a modern approuch - k. n. king\programming projects\chapter8\p16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

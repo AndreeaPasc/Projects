@@ -1,0 +1,3 @@
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Exercises/Chapter14/Ex16/cmake-build-debug/CMakeFiles/Ex16.dir
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Exercises/Chapter14/Ex16/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Exercises/Chapter14/Ex16/cmake-build-debug/CMakeFiles/rebuild_cache.dir

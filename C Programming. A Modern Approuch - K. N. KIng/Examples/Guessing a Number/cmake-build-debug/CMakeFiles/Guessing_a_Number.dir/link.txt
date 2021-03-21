@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Guessing_a_Number.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Guessing_a_Number.dir/objects.a @CMakeFiles\Guessing_a_Number.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Guessing_a_Number.dir/objects.a -Wl,--no-whole-archive  -o Guessing_a_Number.exe -Wl,--out-implib,libGuessing_a_Number.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Guessing_a_Number.dir\linklibs.rsp

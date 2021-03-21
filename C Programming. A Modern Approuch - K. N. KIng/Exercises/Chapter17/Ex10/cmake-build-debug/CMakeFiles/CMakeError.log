@@ -1,0 +1,21 @@
+Detecting C [-std=c90] compiler features failed to compile with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Exercises/Chapter17/Ex10/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_c1d72/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_c1d72.dir\build.make CMakeFiles/cmTC_c1d72.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Exercises/Chapter17/Ex10/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c1d72.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_c1d72.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Exercises\Chapter17\Ex10\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_c1d72.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c1d72.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c1d72.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_c1d72.dir/objects.a @CMakeFiles\cmTC_c1d72.dir\objects1.rsp
+C:\MinGW\bin\ar.exe: CMakeFiles\cmTC_c1d72.dir/objects.a: Permission denied
+CMakeFiles\cmTC_c1d72.dir\build.make:87: recipe for target 'cmTC_c1d72.exe' failed
+mingw32-make.exe[1]: *** [cmTC_c1d72.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Exercises/Chapter17/Ex10/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_c1d72/fast' failed
+mingw32-make.exe: *** [cmTC_c1d72/fast] Error 2
+
+
+

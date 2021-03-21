@@ -1,0 +1,96 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_45372/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_45372.dir\build.make CMakeFiles/cmTC_45372.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_45372.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_45372.dir\testCCompiler.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Programming Projects\Examples\Modifying Records File\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_45372.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_45372.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_45372.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_45372.dir/objects.a @CMakeFiles\cmTC_45372.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_45372.dir/objects.a -Wl,--no-whole-archive  -o cmTC_45372.exe -Wl,--out-implib,libcmTC_45372.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_45372.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_b4bae/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_b4bae.dir\build.make CMakeFiles/cmTC_b4bae.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b4bae.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_b4bae.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Programming Projects\Examples\Modifying Records File\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_b4bae.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_b4bae.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_b4bae.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_b4bae.dir/objects.a @CMakeFiles\cmTC_b4bae.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_b4bae.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b4bae.exe -Wl,--out-implib,libcmTC_b4bae.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_b4bae.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_438f5/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_438f5.dir\build.make CMakeFiles/cmTC_438f5.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_438f5.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c99 -o CMakeFiles\cmTC_438f5.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Programming Projects\Examples\Modifying Records File\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_438f5.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_438f5.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_438f5.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_438f5.dir/objects.a @CMakeFiles\cmTC_438f5.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_438f5.dir/objects.a -Wl,--no-whole-archive  -o cmTC_438f5.exe -Wl,--out-implib,libcmTC_438f5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_438f5.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_be542/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_be542.dir\build.make CMakeFiles/cmTC_be542.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_be542.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_be542.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Programming Projects\Examples\Modifying Records File\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_be542.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_be542.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_be542.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_be542.dir/objects.a @CMakeFiles\cmTC_be542.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_be542.dir/objects.a -Wl,--no-whole-archive  -o cmTC_be542.exe -Wl,--out-implib,libcmTC_be542.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_be542.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Examples/Modifying Records File/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1549452679 source:c:\users\andre\documents\utcn computer science\computer programming\c programming. a modern approuch - k. n. king\examples\dealing a hand of cards\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1549452679 source:c:\users\andre\documents\utcn computer science\an1\sem1\computer programming\c programming. a modern approuch - k. n. king\examples\dealing a hand of cards\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+

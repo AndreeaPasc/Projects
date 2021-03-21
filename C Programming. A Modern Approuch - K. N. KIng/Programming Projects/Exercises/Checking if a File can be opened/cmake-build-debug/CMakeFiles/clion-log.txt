@@ -1,0 +1,49 @@
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Programming Projects\Exercises\Checking if a File can be opened"
+-- The C compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+CMake Warning in C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Exercises/Checking if a File can be opened/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Exercises/Checking if a File can be opened/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_4154e.dir/
+
+  has 251 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    testCCompiler.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- broken
+CMake Error at C:/Program Files/JetBrains/CLion 2018.3.4/bin/cmake/win/share/cmake-3.14/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "C:/MinGW/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Exercises/Checking if a File can be opened/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_4154e/fast 
+    C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_4154e.dir\build.make CMakeFiles/cmTC_4154e.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Exercises/Checking if a File can be opened/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe[1]: CMakeFiles\cmTC_4154e.dir\build.make: No such file or directory
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Exercises/Checking if a File can be opened/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe[1]: *** No rule to make target 'CMakeFiles\cmTC_4154e.dir\build.make'.  Stop.
+    Makefile:120: recipe for target 'cmTC_4154e/fast' failed
+    mingw32-make.exe: *** [cmTC_4154e/fast] Error 2
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Exercises/Checking if a File can be opened/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Programming Projects/Exercises/Checking if a File can be opened/cmake-build-debug/CMakeFiles/CMakeError.log".

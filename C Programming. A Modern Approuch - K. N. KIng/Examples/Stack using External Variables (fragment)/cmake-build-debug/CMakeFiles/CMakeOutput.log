@@ -1,0 +1,192 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_530b4/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_530b4.dir\build.make CMakeFiles/cmTC_530b4.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_530b4.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_530b4.dir\testCCompiler.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Examples\Stack using External Variables (fragment)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_530b4.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_530b4.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_530b4.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_530b4.dir/objects.a @CMakeFiles\cmTC_530b4.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_530b4.dir/objects.a -Wl,--no-whole-archive  -o cmTC_530b4.exe -Wl,--out-implib,libcmTC_530b4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_530b4.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_2461e/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_2461e.dir\build.make CMakeFiles/cmTC_2461e.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2461e.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_2461e.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Examples\Stack using External Variables (fragment)\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_2461e.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_2461e.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_2461e.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_2461e.dir/objects.a @CMakeFiles\cmTC_2461e.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_2461e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_2461e.exe -Wl,--out-implib,libcmTC_2461e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_2461e.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_20ab0/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_20ab0.dir\build.make CMakeFiles/cmTC_20ab0.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_20ab0.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c99 -o CMakeFiles\cmTC_20ab0.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Examples\Stack using External Variables (fragment)\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_20ab0.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_20ab0.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_20ab0.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_20ab0.dir/objects.a @CMakeFiles\cmTC_20ab0.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_20ab0.dir/objects.a -Wl,--no-whole-archive  -o cmTC_20ab0.exe -Wl,--out-implib,libcmTC_20ab0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_20ab0.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_73cff/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_73cff.dir\build.make CMakeFiles/cmTC_73cff.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_73cff.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_73cff.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Examples\Stack using External Variables (fragment)\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_73cff.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_73cff.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_73cff.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_73cff.dir/objects.a @CMakeFiles\cmTC_73cff.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_73cff.dir/objects.a -Wl,--no-whole-archive  -o cmTC_73cff.exe -Wl,--out-implib,libcmTC_73cff.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_73cff.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_9ada9/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_9ada9.dir\build.make CMakeFiles/cmTC_9ada9.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9ada9.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_9ada9.dir\testCCompiler.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Examples\Stack using External Variables (fragment)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_9ada9.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_9ada9.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_9ada9.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_9ada9.dir/objects.a @CMakeFiles\cmTC_9ada9.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_9ada9.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9ada9.exe -Wl,--out-implib,libcmTC_9ada9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_9ada9.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_1f84f/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_1f84f.dir\build.make CMakeFiles/cmTC_1f84f.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1f84f.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_1f84f.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Examples\Stack using External Variables (fragment)\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_1f84f.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_1f84f.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_1f84f.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_1f84f.dir/objects.a @CMakeFiles\cmTC_1f84f.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_1f84f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_1f84f.exe -Wl,--out-implib,libcmTC_1f84f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_1f84f.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_34f4f/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_34f4f.dir\build.make CMakeFiles/cmTC_34f4f.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_34f4f.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c99 -o CMakeFiles\cmTC_34f4f.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Examples\Stack using External Variables (fragment)\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_34f4f.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_34f4f.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_34f4f.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_34f4f.dir/objects.a @CMakeFiles\cmTC_34f4f.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_34f4f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_34f4f.exe -Wl,--out-implib,libcmTC_34f4f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_34f4f.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_ec31b/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_ec31b.dir\build.make CMakeFiles/cmTC_ec31b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ec31b.dir/feature_tests.c.obj
+C:\MinGW\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_ec31b.dir\feature_tests.c.obj   -c "C:\Users\andre\Documents\UTCN Computer Science\An1\Sem1\Computer Programming\C Programming. A Modern Approuch - K. N. KIng\Examples\Stack using External Variables (fragment)\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_ec31b.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ec31b.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ec31b.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_ec31b.dir/objects.a @CMakeFiles\cmTC_ec31b.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_ec31b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ec31b.exe -Wl,--out-implib,libcmTC_ec31b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_ec31b.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/andre/Documents/UTCN Computer Science/An1/Sem1/Computer Programming/C Programming. A Modern Approuch - K. N. KIng/Examples/Stack using External Variables (fragment)/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros

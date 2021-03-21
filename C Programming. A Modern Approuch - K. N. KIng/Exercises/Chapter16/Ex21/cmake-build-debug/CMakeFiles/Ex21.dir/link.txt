@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Ex21.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Ex21.dir/objects.a @CMakeFiles\Ex21.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Ex21.dir/objects.a -Wl,--no-whole-archive  -o Ex21.exe -Wl,--out-implib,libEx21.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ex21.dir\linklibs.rsp
