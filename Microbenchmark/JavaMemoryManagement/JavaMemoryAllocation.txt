@@ -1,0 +1,1 @@
+Average time is: 8.69E-7 sec

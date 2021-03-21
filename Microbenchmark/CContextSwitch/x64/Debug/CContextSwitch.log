@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CContextSwitch\Source.c(25,16): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'int'
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CContextSwitch\Source.c(51,76): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CContextSwitch\Source.c(55,9): warning C4101: 'lpExitCode': unreferenced local variable
+  CContextSwitch.vcxproj -> C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CContextSwitch\x64\Debug\CContextSwitch.exe

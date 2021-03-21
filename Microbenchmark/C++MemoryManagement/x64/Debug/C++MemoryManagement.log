@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\C++MemoryManagement\Source.cpp(25,14): warning C4477: 'fprintf' : format string '%.10f' requires an argument of type 'double', but variadic argument 1 has type 'std::chrono::duration<double,std::milli>'
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\C++MemoryManagement\Source.cpp(34,14): warning C4477: 'fprintf' : format string '%.10f' requires an argument of type 'double', but variadic argument 1 has type 'std::chrono::duration<double,std::milli>'
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\C++MemoryManagement\Source.cpp(19,7): warning C4101: 'a': unreferenced local variable
+  C++MemoryManagement.vcxproj -> C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\C++MemoryManagement\x64\Debug\C++MemoryManagement.exe

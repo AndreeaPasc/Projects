@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CThreadCreation\Source.c(14,17): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'int'
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CThreadCreation\Source.c(31,69): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CThreadCreation\Source.c(44,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CThreadCreation\Source.c(35,9): warning C4101: 'lpExitCode': unreferenced local variable
+  CThreadCreation.vcxproj -> C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CThreadCreation\x64\Debug\CThreadCreation.exe

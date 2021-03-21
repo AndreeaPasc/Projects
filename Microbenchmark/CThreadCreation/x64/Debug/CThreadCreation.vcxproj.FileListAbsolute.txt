@@ -1,0 +1,4 @@
+C:\Users\andre\Desktop\CThreadCreation\x64\Debug\CThreadCreation.exe
+C:\Users\andre\Desktop\CThreadCreation\x64\Debug\CThreadCreation.pdb
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CThreadCreation\x64\Debug\CThreadCreation.exe
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CThreadCreation\x64\Debug\CThreadCreation.pdb

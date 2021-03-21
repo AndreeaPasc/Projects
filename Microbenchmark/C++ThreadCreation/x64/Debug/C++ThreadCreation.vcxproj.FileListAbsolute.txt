@@ -1,0 +1,4 @@
+C:\Users\andre\Desktop\C++ThreadCreation\x64\Debug\C++ThreadCreation.exe
+C:\Users\andre\Desktop\C++ThreadCreation\x64\Debug\C++ThreadCreation.pdb
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\C++ThreadCreation\x64\Debug\C++ThreadCreation.exe
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\C++ThreadCreation\x64\Debug\C++ThreadCreation.pdb

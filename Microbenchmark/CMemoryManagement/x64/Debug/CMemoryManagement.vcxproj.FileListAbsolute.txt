@@ -1,0 +1,2 @@
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CMemoryManagement\x64\Debug\CMemoryManagement.exe
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CMemoryManagement\x64\Debug\CMemoryManagement.pdb

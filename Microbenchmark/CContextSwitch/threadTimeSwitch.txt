@@ -1,0 +1,3 @@
+Thread switching times: 
+
+Average time: 0.080000 sec

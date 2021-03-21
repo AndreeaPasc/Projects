@@ -1,0 +1,8 @@
+Static allocation: 
+
+Total time: 0.0000000022 sec
+
+Dynamic allocation: 
+
+Total time: 0.0000027515 sec
+

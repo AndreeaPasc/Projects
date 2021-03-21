@@ -1,0 +1,2 @@
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CContextSwitch\x64\Debug\CContextSwitch.exe
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\CContextSwitch\x64\Debug\CContextSwitch.pdb

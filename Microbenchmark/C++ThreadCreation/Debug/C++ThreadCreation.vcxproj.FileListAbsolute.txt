@@ -1,0 +1,2 @@
+C:\Users\andre\Desktop\C++ThreadCreation\Debug\C++ThreadCreation.exe
+C:\Users\andre\Desktop\C++ThreadCreation\Debug\C++ThreadCreation.pdb

@@ -1,0 +1,2 @@
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\C++MemoryManagement\x64\Debug\C++MemoryManagement.exe
+C:\Users\andre\Documents\UTCN Computer Science\An3\Structure of Computer Systems\Labs\Lab Projects\C++MemoryManagement\x64\Debug\C++MemoryManagement.pdb

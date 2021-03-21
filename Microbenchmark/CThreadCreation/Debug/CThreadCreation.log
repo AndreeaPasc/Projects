@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\andre\Desktop\CThreadCreation\Source.cpp(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LPVOID'
+C:\Users\andre\Desktop\CThreadCreation\Source.cpp(23,8): warning C4101: 'lpExitCode': unreferenced local variable
+C:\Users\andre\Desktop\CThreadCreation\Source.cpp(10): error C4716: 'myThreadFunction': must return a value

@@ -1,0 +1,3 @@
+Thread context switch times: 
+
+Average time is: 0.002210 sec
