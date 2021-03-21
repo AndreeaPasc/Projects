@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567637270 source:c:\users\andre\documents\utcn computer science\an1\sem1\computer programming\how to program (7th edition)- paul deitel\programming projects\chapter 5\5.27\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
